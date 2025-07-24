@@ -1,8 +1,10 @@
-﻿namespace Assignment10_Q1
+﻿using System;
+
+namespace Assignment10_Q1
 {
-    public static class Operations
+    public class Operations
     {
-        public static void Sum(params int[] numbers)
+        public void Sum(params int[] numbers)
         {
             int total = 0;
             foreach (int num in numbers)
@@ -10,12 +12,12 @@
             Console.WriteLine("Sum: " + total);
         }
 
-        public static void Subtract(int a, int b)
+        public void Subtract(int a, int b)
         {
             Console.WriteLine("Subtract: " + (a - b));
         }
 
-        public static void Product(params int[] numbers)
+        public void Product(params int[] numbers)
         {
             int result = 1;
             foreach (int num in numbers)
@@ -23,7 +25,7 @@
             Console.WriteLine("Product: " + result);
         }
 
-        public static void Min(params int[] numbers)
+        public void Min(params int[] numbers)
         {
             int min = numbers[0];
             foreach (int num in numbers)
@@ -32,7 +34,7 @@
             Console.WriteLine("Min: " + min);
         }
 
-        public static void Max(params int[] numbers)
+        public void Max(params int[] numbers)
         {
             int max = numbers[0];
             foreach (int num in numbers)
@@ -41,7 +43,7 @@
             Console.WriteLine("Max: " + max);
         }
 
-        public static void IsEven(int number)
+        public void IsEven(int number)
         {
             if (number % 2 == 0)
                 Console.WriteLine("Even");
@@ -49,7 +51,7 @@
                 Console.WriteLine("Not Even");
         }
 
-        public static void IsOdd(int number)
+        public void IsOdd(int number)
         {
             if (number % 2 != 0)
                 Console.WriteLine("Odd");
@@ -57,7 +59,7 @@
                 Console.WriteLine("Not Odd");
         }
 
-        public static void IsPrime(int number)
+        public void IsPrime(int number)
         {
             if (number < 2)
             {
@@ -75,16 +77,13 @@
                 }
             }
 
-            if (prime)
-                Console.WriteLine("Prime");
-            else
-                Console.WriteLine("Not Prime");
+            Console.WriteLine(prime ? "Prime" : "Not Prime");
         }
     }
 
-    public static class IntExtensions
+    public static class OperationExtensions
     {
-        public static void DisplayEvenInRange(this int start, int end)
+        public static void DisplayEvenInRange(this Operations op, int start, int end)
         {
             Console.WriteLine("Even Numbers:");
             for (int i = start; i <= end; i++)
@@ -93,7 +92,7 @@
             Console.WriteLine();
         }
 
-        public static void DisplayOddInRange(this int start, int end)
+        public static void DisplayOddInRange(this Operations op, int start, int end)
         {
             Console.WriteLine("Odd Numbers:");
             for (int i = start; i <= end; i++)
@@ -102,7 +101,7 @@
             Console.WriteLine();
         }
 
-        public static void DisplayPrimeInRange(this int start, int end)
+        public static void DisplayPrimeInRange(this Operations op, int start, int end)
         {
             Console.WriteLine("Prime Numbers:");
             for (int i = start; i <= end; i++)
@@ -120,22 +119,22 @@
             Console.WriteLine();
         }
 
-        public static void DisplayTable(this int number)
+        public static void DisplayTable(this Operations op, int number)
         {
             for (int i = 1; i <= 10; i++)
                 Console.WriteLine(number + " x " + i + " = " + (number * i));
         }
 
-        public static void DisplayTables1To10InRange(this int start, int end)
+        public static void DisplayTables1To10InRange(this Operations op, int start, int end)
         {
             for (int i = start; i <= end; i++)
             {
                 Console.WriteLine("Table of " + i);
-                i.DisplayTable();
+                op.DisplayTable(i);
             }
         }
 
-        public static void ReverseNumber(this int number)
+        public static void ReverseNumber(this Operations op, int number)
         {
             int reversed = 0;
             int n = number;
@@ -147,7 +146,7 @@
             Console.WriteLine("Reversed: " + reversed);
         }
 
-        public static void DisplayTablesInRange(int from, int to, int start, int end)
+        public static void DisplayTablesInRange(this Operations op, int from, int to, int start, int end)
         {
             for (int i = start; i <= end; i++)
             {
@@ -162,28 +161,26 @@
     {
         public static void Main()
         {
-            Operations.Sum(1, 2, 3, 4);
-            Operations.Subtract(10, 4);
-            Operations.Product(2, 3, 4);
-            Operations.Min(3, 5, 1, 9);
-            Operations.Max(3, 5, 1, 9);
-            Operations.IsEven(6);
-            Operations.IsOdd(7);
-            Operations.IsPrime(11);
+            Operations op = new Operations();
 
-            int a = 1;
-            int b = 5;
-            int c = 2;
-            int d = 12345;
+            // Normal methods
+            op.Sum(1, 2, 3, 4);
+            op.Subtract(10, 4);
+            op.Product(2, 3, 4);
+            op.Min(3, 5, 1, 9);
+            op.Max(3, 5, 1, 9);
+            op.IsEven(6);
+            op.IsOdd(7);
+            op.IsPrime(11);
 
-            a.DisplayEvenInRange(10);
-            a.DisplayOddInRange(10);
-            a.DisplayPrimeInRange(20);
-            b.DisplayTable();
-            c.DisplayTables1To10InRange(4);
-            IntExtensions.DisplayTablesInRange(3, 5, 2, 3);
-            d.ReverseNumber();
+            // Extension methods on Operations
+            op.DisplayEvenInRange(1, 10);
+            op.DisplayOddInRange(1, 10);
+            op.DisplayPrimeInRange(1, 20);
+            op.DisplayTable(5);
+            op.DisplayTables1To10InRange(2, 4);
+            op.DisplayTablesInRange(3, 5, 2, 3);
+            op.ReverseNumber(12345);
         }
     }
 }
-

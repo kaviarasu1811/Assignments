@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\Assignment11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02268022-9038-4209-9B12-6973B287055A}|NumericFunctionsTests\\Assignment12.Tests.csproj|c:\\users\\dell\\downloads\\assignment11\\numericfunctionstests\\numericfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02268022-9038-4209-9B12-6973B287055A}|NumericFunctionsTests\\Assignment12.Tests.csproj|solutionrelative:numericfunctionstests\\numericfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02268022-9038-4209-9B12-6973B287055A}|NumericFunctionsTests\\Assignment12.Tests.csproj|c:\\users\\dell\\downloads\\assignment11\\numericfunctionstests\\assignment12.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02268022-9038-4209-9B12-6973B287055A}|NumericFunctionsTests\\Assignment12.Tests.csproj|solutionrelative:numericfunctionstests\\assignment12.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9971B2F-5230-4705-80B1-58002560C335}|Assignment11.Tests\\Assignment11.Tests.csproj|c:\\users\\dell\\downloads\\assignment11\\assignment11.tests\\stringfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9971B2F-5230-4705-80B1-58002560C335}|Assignment11.Tests\\Assignment11.Tests.csproj|solutionrelative:assignment11.tests\\stringfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9971B2F-5230-4705-80B1-58002560C335}|Assignment11.Tests\\Assignment11.Tests.csproj|c:\\users\\dell\\downloads\\assignment11\\assignment11.tests\\numericfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9971B2F-5230-4705-80B1-58002560C335}|Assignment11.Tests\\Assignment11.Tests.csproj|solutionrelative:assignment11.tests\\numericfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C072D4B-07A9-4EA7-9522-1FA04CE56539}|Assignment11\\Assignment11.csproj|c:\\users\\dell\\downloads\\assignment11\\assignment11\\stringfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C072D4B-07A9-4EA7-9522-1FA04CE56539}|Assignment11\\Assignment11.csproj|solutionrelative:assignment11\\stringfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C072D4B-07A9-4EA7-9522-1FA04CE56539}|Assignment11\\Assignment11.csproj|c:\\users\\dell\\downloads\\assignment11\\assignment11\\numericfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C072D4B-07A9-4EA7-9522-1FA04CE56539}|Assignment11\\Assignment11.csproj|solutionrelative:assignment11\\numericfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02268022-9038-4209-9B12-6973B287055A}|NumericFunctionsTests\\Assignment12.Tests.csproj|c:\\users\\dell\\downloads\\assignment11\\numericfunctionstests\\stringfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02268022-9038-4209-9B12-6973B287055A}|NumericFunctionsTests\\Assignment12.Tests.csproj|solutionrelative:numericfunctionstests\\stringfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA936A-B048-400B-8675-63627AA71A53}|Assignment12\\Assignment12.csproj|c:\\users\\dell\\downloads\\assignment11\\assignment12\\stringfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA936A-B048-400B-8675-63627AA71A53}|Assignment12\\Assignment12.csproj|solutionrelative:assignment12\\stringfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FA936A-B048-400B-8675-63627AA71A53}|Assignment12\\Assignment12.csproj|c:\\users\\dell\\downloads\\assignment11\\assignment12\\numericfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FA936A-B048-400B-8675-63627AA71A53}|Assignment12\\Assignment12.csproj|solutionrelative:assignment12\\numericfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9971B2F-5230-4705-80B1-58002560C335}|Assignment11.Tests\\Assignment11.Tests.csproj|c:\\users\\dell\\downloads\\assignment11\\assignment11.tests\\assignment11.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D9971B2F-5230-4705-80B1-58002560C335}|Assignment11.Tests\\Assignment11.Tests.csproj|solutionrelative:assignment11.tests\\assignment11.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumericFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11\\NumericFunctions.cs",
+              "RelativeDocumentMoniker": "Assignment11\\NumericFunctions.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11\\NumericFunctions.cs",
+              "RelativeToolTip": "Assignment11\\NumericFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:21:18.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StringFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11\\StringFunctions.cs",
+              "RelativeDocumentMoniker": "Assignment11\\StringFunctions.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11\\StringFunctions.cs",
+              "RelativeToolTip": "Assignment11\\StringFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:21:39.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumericFunctionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11.Tests\\NumericFunctionsTests.cs",
+              "RelativeDocumentMoniker": "Assignment11.Tests\\NumericFunctionsTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11.Tests\\NumericFunctionsTests.cs",
+              "RelativeToolTip": "Assignment11.Tests\\NumericFunctionsTests.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:32:33.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringFunctionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11.Tests\\StringFunctionsTests.cs",
+              "RelativeDocumentMoniker": "Assignment11.Tests\\StringFunctionsTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11.Tests\\StringFunctionsTests.cs",
+              "RelativeToolTip": "Assignment11.Tests\\StringFunctionsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T04:39:33.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment12.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\NumericFunctionsTests\\Assignment12.Tests.csproj",
+              "RelativeDocumentMoniker": "NumericFunctionsTests\\Assignment12.Tests.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\NumericFunctionsTests\\Assignment12.Tests.csproj",
+              "RelativeToolTip": "NumericFunctionsTests\\Assignment12.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T06:57:21.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumericFunctionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\NumericFunctionsTests\\NumericFunctionsTests.cs",
+              "RelativeDocumentMoniker": "NumericFunctionsTests\\NumericFunctionsTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\NumericFunctionsTests\\NumericFunctionsTests.cs",
+              "RelativeToolTip": "NumericFunctionsTests\\NumericFunctionsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:53:43.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringFunctionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\NumericFunctionsTests\\StringFunctionsTests.cs",
+              "RelativeDocumentMoniker": "NumericFunctionsTests\\StringFunctionsTests.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\NumericFunctionsTests\\StringFunctionsTests.cs",
+              "RelativeToolTip": "NumericFunctionsTests\\StringFunctionsTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:58:45.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment12\\StringFunctions.cs",
+              "RelativeDocumentMoniker": "Assignment12\\StringFunctions.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment12\\StringFunctions.cs",
+              "RelativeToolTip": "Assignment12\\StringFunctions.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:51:11.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NumericFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment12\\NumericFunctions.cs",
+              "RelativeDocumentMoniker": "Assignment12\\NumericFunctions.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment12\\NumericFunctions.cs",
+              "RelativeToolTip": "Assignment12\\NumericFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:47:19.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment11.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11.Tests\\Assignment11.Tests.csproj",
+              "RelativeDocumentMoniker": "Assignment11.Tests\\Assignment11.Tests.csproj",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Assignment11\\Assignment11.Tests\\Assignment11.Tests.csproj",
+              "RelativeToolTip": "Assignment11.Tests\\Assignment11.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T04:33:54.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
